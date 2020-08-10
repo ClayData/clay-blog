@@ -1,13 +1,13 @@
 ---
 title: 'Clayton Ortiz'
 excerpt: 'I am Clayton Ortiz, the creator, curator, and writer for clay-blog'
-coverImage: '/assets/blog/authors/clayton.jpg'
+coverImage: '/assets/blog/authors/clayton.jpeg'
 date: 'August 08, 2020'
 author: 
     name: Clayton Ortiz
-    picture: '/assets/blog/authors/clayton.jpg'
+    picture: '/assets/blog/authors/clayton.jpeg'
 ogImage:
-    url: '/assets/blog/authors/clayton.jpg'
+    url: '/assets/blog/authors/clayton.jpeg'
 ---
 
 I am Clayton Ortiz, the creator, curator, and writer for clay-blog. I am creating this blog to learn some new skills and to give myself a place to write
