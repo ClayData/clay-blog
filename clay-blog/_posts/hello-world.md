@@ -1,4 +1,14 @@
-# Clayton Ortiz
+---
+title: 'Clayton Ortiz'
+excerpt: 'I am Clayton Ortiz, the creator, curator, and writer for clay-blog'
+coverImage: '/assets/blog/authors/clayton.jpg'
+date: 'August 08, 2020'
+author: 
+    name: Clayton Ortiz
+    picture: '/assets/blog/authors/clayton.jpg'
+ogImage:
+    url: '/assets/blog/authors/clayton.jpg'
+---
 
 I am Clayton Ortiz, the creator, curator, and writer for clay-blog. I am creating this blog to learn some new skills and to give myself a place to write
 about the things I am learning. Through reading the blogs of others I have seen it talked about how writing a blog about something you have learned to teach
@@ -13,4 +23,4 @@ on in the immediate time period are:
     - CSS and UI
 
 So basically I want to learn a lot about a lot. We will see how this goes, hopefully I stick to it and am able to look back on this blog years down the road and 
-see how much I have improved in betch technical skill and writing ability. Also, I do not actually plan for many people to read these blogs but I will try to make them proffesional-ish.
+see how much I have improved in betch technical skill and writing ability. Also, I do not actually plan for many people to read these blogs but I will try to make them professional-ish.
