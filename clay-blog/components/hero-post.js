@@ -1,5 +1,4 @@
 import Avatar from '../components/avatar'
-import DateFormater from '../components/date-formater'
 import CoverImage from '../components/cover-image'
 import Link from 'next/link'
 
